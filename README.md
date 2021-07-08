@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @raulbreton
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any Data Science project
+- 📫 How to reach me raul.elizalde.breton@gmail.com
